@@ -1,0 +1,1 @@
+scp *.py raijin:~/wombat_jra-iaf_mom025/.

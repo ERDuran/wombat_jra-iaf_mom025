@@ -1,0 +1,1 @@
+sshfs erd561@raijin.nci.org.au:/g/data/e14/erd561/wombat_jra-iaf_mom025 /Users/earl/Desktop/Yang
